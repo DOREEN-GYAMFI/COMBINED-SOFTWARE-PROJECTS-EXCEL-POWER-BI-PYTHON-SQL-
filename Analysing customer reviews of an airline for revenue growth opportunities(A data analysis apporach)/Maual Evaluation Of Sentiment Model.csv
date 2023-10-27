@@ -1,0 +1,21 @@
+Year,Data_Source,Review,sentiment_scores,sentiment_label,manual comparison
+2018,TripAdvisor,book economy booking use alaska airline point try check cancun airport issue agent help able check away gate look ticket wife think,0.6705,positive,correct
+2018,Skytrax,wife year anniversary purchase ticket year ago sit check advise seat ask steward check come usual american airline year flight begin delay twice tartar maintenance reason advise steward connect flight charlotte close miss said worry plane lie ask flight shrug shoulder bit answer run connect flight door shut face tell flight hour later finally arrive gainesville luggage lose luggage find new suitcase time use shroud offer damage time fly american,-0.7579,negative,correct
+2019,TripAdvisor,fly different airline usually economy overall experience fine great bad report word caution time airline implement basic economy option,0.3182,positive,neutral
+2019,TripAdvisor,original flight cancel employee steven home day personally trace luggage ensure wait reach final destination american airline,-0.128,negative,correct
+2020,TripAdvisor,fly wilmingtonof purchase class trip seat comfortable plenty leg room point near end flight attendant thank personally select airline nice touch previous fly,0.8834,positive,correct
+2019,TripAdvisor,flight turk smooth easy fly diam small plane turk believe airline company smooth course hit miss flight attendant pure hell delay turk,-0.765,negative,correct
+2019,TripAdvisor,beautiful plane entertainment system way light slightly bring morning arrive line restroom like food,0.8375,positive,correct
+2022,Skytrax,delay austin hour reason run gate baby catch gate open close door arrive gate flight depart rude customer service lose flight delay hold door,-0.8519,negative,correct
+2019,TripAdvisor,tend choose flight base price duration select airline treat past trip win november outbound flight phl connection rsw break suitcase leg,0.7845,positive,correct
+2018,TripAdvisor,fly son airplane help bit row seat comfortable coach knee room sufficient heal okay special service fine,0.9274,positive,correct
+2019,TripAdvisor,head dallasitnorth change plane light crew pleasant helpful weather bad dfw curl plane divert antonio sit ground long change pilot crew bad,-0.4588,negative,correct
+2018,TripAdvisor,ask fly hurricane know leg seat prop plane cancel wave change fee want charge second time seat preferred seat leave time jetblue reasonable,0.0258,positive,negative
+2020,TripAdvisor,ready february american airline cancel flight virus return money vice agent fly american,-0.3612,negative,correct
+2019,TripAdvisor,write husband bad travel delay experience american airline far begin friday july begin share flight delay antonio dallas friday june light aathey,-0.8316,negative,correct
+2021,TripAdvisor,return flight houston flight itinerant change minute separate seat different group people pay seat select seat inquire change seat,0.3818,positive,correct
+2021,Skytrax,spirit airline cancel flight notice stick philadelphia airport american airline seat leave flight leave minute girl desk patient polite hook plane actually wait aboard thank american airline come,-0.2732,negative,correct
+2021,TripAdvisor,late agent view passenger assume airline know old people hold jacket item check item note fly warm phx cold milwaukee common sense,0.1027,positive,negative
+2018,TripAdvisor,fly base flight got delay time reschedule different gate good experience dia god awful company ruin tell fly leadership experience,-0.7906,negative,correct
+2022,Skytrax,flight day fiancee miss appointment literally american answer phone hold hour night hour morning platinum advantage member customer service absolutely ludicrous warn low expectation american airline,-0.6525,negative,correct
+2022,TripAdvisor,air vent completely cover dust possibly mold got stick plane minute gate staff let,0.0772,positive,neutral
