@@ -1,7 +1,7 @@
 # Combined Softwares (Python, Excel,SQI & Power BI)
 🐍 Welcome to My Combined Software Portfolio! 🚀
 
-I'm a Python enthusiast dedicated to solving complex business puzzles. With expertise in data analysis, machine learning, web development, and automation, I've crafted impactful solutions. Dive into my projects showcasing Python's prowess in driving efficiency, innovation, and tangible results. Let's connect and explore how I can elevate your business with Python-powered solutions!
+As an enthusiast dedicated to unraveling intricate business challenges, I bring expertise in data analysis, machine learning, statistical analysis, and automation. My projects showcase the versatile application of Python alongside tools like Power BI, SQL, and Excel, resulting in impactful solutions that drive efficiency, innovation, and tangible results. Let's connect and explore how I can elevate your business by leveraging a combination of Python and other powerful software solutions!
 
 
 
